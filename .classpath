@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="BASIC_JAVA"/>
+	<classpathentry kind="src" path="AccessModifier"/>
+	<classpathentry kind="src" path="Inheritance"/>
+	<classpathentry kind="src" path="Abstraction"/>
+	<classpathentry kind="src" path="Encapsulation"/>
+	<classpathentry kind="src" path="Polymorphism"/>
+	<classpathentry kind="src" path="Constructor"/>
+	<classpathentry kind="src" path="String"/>
+	<classpathentry kind="src" path="Looping_Statements"/>
+	<classpathentry kind="src" path="Condition_Statements"/>
+	<classpathentry kind="src" path="Methods"/>
+	<classpathentry kind="src" path="Return_method"/>
+	<classpathentry kind="src" path="Exception_Handling"/>
+	<classpathentry kind="src" path="Z_Practice"/>
+	<classpathentry kind="src" path="Collection"/>
+	<classpathentry kind="src" path="Array"/>
+	<classpathentry kind="src" path="Initialisation"/>
+	<classpathentry kind="src" path="Exception_Handling_"/>
+	<classpathentry kind="src" path="HashMap"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
